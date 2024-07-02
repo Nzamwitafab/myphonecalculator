@@ -1,3 +1,6 @@
+Name: Nzamwitakuze Fabrice
+ID: 24855
+
 Mobile Calculator for Android
 Welcome to the Mobile Calculator for Android project! This repository contains the source code for a simple, user-friendly calculator application designed for Android devices. The application supports basic arithmetic operations for whole numbers and offers an intuitive interface for ease of use.
 
